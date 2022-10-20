@@ -33,23 +33,37 @@ body > main {
     .preview-card {
         display: flex;
         flex-direction: column;
-        width: 450px;   
+        width: 450px;
+        text-align: center;
     }
     .preview-info {
         max-width: 400px;
+    }
+    .statistics {
+        padding-bottom: 3rem;
+    }
+    .main-heading, .main-paragraph {
+        position: relative;
+        left: 2rem;
     }
 }
 @media screen and (max-width: 980px) {
     .preview-card {
         display: flex;
         flex-direction: column;
-        width: 450px;   
+        width: 450px;  
+        text-align: center;
     }
     .preview-info {
         max-width: 400px;
     }
     .statistics {
         gap: 1.5rem;
+        padding-bottom: 3rem;
+    }
+    .main-heading, .main-paragraph {
+        position: relative;
+        left: 2rem;
     }
 }
 .preview-card:hover {
