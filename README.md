@@ -13,8 +13,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ## Overview
 ### Links
 
-- Solution URL: https://github.com/mkboris/FeM-Stats-preview-card-component
-- Live Site URL: https://mkboris.github.io/FeM-Stats-preview-card-component/
+- Solution URL: https://github.com/mkboris/Stats-preview-card-component
+- Live Site URL: https://mkboris.github.io/Stats-preview-card-component/
 
 ### Built with
 
