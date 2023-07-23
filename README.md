@@ -5,12 +5,16 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
 
-## Overview
+
+### Screenshot
+
+![](/design/Screenshot.png)
+
 ### Links
 
 - Solution URL: https://github.com/mkboris/Stats-preview-card-component
