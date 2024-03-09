@@ -29,4 +29,3 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ## Author
 
 - Frontend Mentor - [@mkboris](https://www.frontendmentor.io/profile/mkboris)
-- Twitter - [@mk_boris](https://www.twitter.com/mk_boris)
