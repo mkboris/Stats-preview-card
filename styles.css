@@ -181,6 +181,10 @@ body {
   margin-top: 0;
 }
 
+.upper {
+  text-transform: uppercase;
+}
+
 .stat-headings {
   font-family: "Lexend Deca", sans-serif;
   font-size: 12px;
