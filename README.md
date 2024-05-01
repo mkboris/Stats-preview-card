@@ -15,8 +15,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: https://github.com/mkboris/Stats-preview-card-component
-- Live Site URL: https://mkboris.github.io/Stats-preview-card-component/
+- [Solution](https://github.com/mkboris/Stats-preview-card)
+- [Live Site](https://mkboris.github.io/Stats-preview-card/)
 
 ### Built with
 
